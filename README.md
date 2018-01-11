@@ -28,7 +28,7 @@ python3.6 ./buyETHSandbox.py
 4. **Then with Real Exchange API**
 ```bash
 nano settings.py                   # Confirm your API URL's
-python3.6 ./buyEth.py        # Buy ETH
+python3.6 ./buyETH.py        # Buy ETH
 ```
 
 ## Configuration
